@@ -245,6 +245,8 @@ if os.getenv("ON_PYTHONANYWHERE"):
     STATIC_ROOT = os.path.join(BASE_DIR, "static")
 
 
+
+
 # PythonAnywhere settings.
 import os  # noqa: E402
 
