@@ -6,3 +6,7 @@ __pycache__/
 .DS_Store
 
 db.sqlite3
+
+dsd_logs/
+
+.env
